@@ -10,3 +10,7 @@ body {
 .tt-navbar-bg {
   background-color: #DEB887;
 }
+
+.social-footer-icons a {
+  color: inherit;
+}
