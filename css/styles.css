@@ -3,6 +3,10 @@ body {
   background-color: #C67a5d;
 }
 
+.main-talk-bg-color {
+  background-color: #f4f3ef;
+}
+
 .talks-with-tee-title {
   font-family: 'MonteCarlo', cursive;
 }
