@@ -8,7 +8,17 @@ body {
 }
 
 .talks-with-tee-title {
+  font-family: 'Allura', cursive;
+}
+
+.home-page-title {
   font-family: 'MonteCarlo', cursive;
+  text-decoration: underline;
+  font-size: 5rem;
+}
+
+.navbar-brand {
+  font-size: 2rem;
 }
 
 .tt-navbar-bg {
